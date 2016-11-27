@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton01", "tokoton01.csproj", "{ED73D3BB-D094-400F-9B16-EC7E3A672826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton01_2", "..\tokoton01_2\tokoton01_2.csproj", "{1F7CA327-5A0F-411A-921E-59419A7F4568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED73D3BB-D094-400F-9B16-EC7E3A672826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED73D3BB-D094-400F-9B16-EC7E3A672826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED73D3BB-D094-400F-9B16-EC7E3A672826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7CA327-5A0F-411A-921E-59419A7F4568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7CA327-5A0F-411A-921E-59419A7F4568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7CA327-5A0F-411A-921E-59419A7F4568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7CA327-5A0F-411A-921E-59419A7F4568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

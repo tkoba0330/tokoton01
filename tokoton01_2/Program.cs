@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tokoton01
+namespace tokoton01_2
 {
     class A
     {
