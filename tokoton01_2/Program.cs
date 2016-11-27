@@ -9,13 +9,16 @@ namespace tokoton01_2
     class A
     {
         private int myField;
-        public int GetMyField()
+        public int MyField
         {
-            return myField;
-        }
-        public void SetMyFiled(int newValue)
-        {
-            myField = newValue;
+            get
+            {
+                return myField;
+            }
+            set
+            {
+                myField = value;
+            }
         }
     }
 
@@ -24,8 +27,8 @@ namespace tokoton01_2
         static void Main(string[] args)
         {
             A a = new A();
-            a.SetMyFiled(123);
-            Console.WriteLine(a.GetMyField());
+            a.MyField = 123;
+            Console.WriteLine(a.MyField);
             System.Console.ReadLine();
         }
     }
